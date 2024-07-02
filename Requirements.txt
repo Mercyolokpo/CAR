@@ -1,3 +1,5 @@
 scikit-learn==1.4.2
 pandas==2.2.2
 xgboost==2.0.3
+python==3.10.14
+streamlit==1.32.0
