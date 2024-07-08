@@ -13,7 +13,7 @@ def main():
     """
     
     model = xgb.XGBRegressor()
-    model.load_model('C:/Users/user/Documents/New_Project/xg_model.json')
+    model.load_model('xg_model.json')
     
     st.markdown(html_temp, unsafe_allow_html = True)
     st.write ('')
